@@ -25,3 +25,22 @@ Basic Terminal Command
 
 **7.rm (remove, delete)**
 >하나 이상의 파일 삭제
+
+**8.pwd (print working directory)**
+> 현재 디렉토리의 경로를 출력
+
+**9.cat (concatenate)**
+> 파일의 내용 확인
+
+**10.rmdir (remove directory)**
+> 디렉토리 삭제
+
+**11.mv (move)**
+> 파일 이동 및 이름 변경
+> 명령어 뒤에 파일이름 이동할 디렉토리 or 변경할 파일이름 입력
+
+**12.history**
+> 이전에 사용한 명령어 확인
+
+**13.man (manual)**
+> 명령어의 메뉴얼 확인
